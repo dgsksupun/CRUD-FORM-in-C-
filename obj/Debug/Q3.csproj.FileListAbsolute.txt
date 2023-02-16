@@ -1,0 +1,11 @@
+C:\Users\Supun\Desktop\ICT20934\Q3\bin\Debug\Q3.exe.config
+C:\Users\Supun\Desktop\ICT20934\Q3\bin\Debug\Q3.exe
+C:\Users\Supun\Desktop\ICT20934\Q3\bin\Debug\Q3.pdb
+C:\Users\Supun\Desktop\ICT20934\Q3\obj\Debug\Q3.csproj.AssemblyReference.cache
+C:\Users\Supun\Desktop\ICT20934\Q3\obj\Debug\Q3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Supun\Desktop\ICT20934\Q3\obj\Debug\Q3.Form1.resources
+C:\Users\Supun\Desktop\ICT20934\Q3\obj\Debug\Q3.Properties.Resources.resources
+C:\Users\Supun\Desktop\ICT20934\Q3\obj\Debug\Q3.csproj.GenerateResource.cache
+C:\Users\Supun\Desktop\ICT20934\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+C:\Users\Supun\Desktop\ICT20934\Q3\obj\Debug\Q3.exe
+C:\Users\Supun\Desktop\ICT20934\Q3\obj\Debug\Q3.pdb
